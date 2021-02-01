@@ -3,32 +3,14 @@
 概要
 
 #Description  
-詳細の説明
+①トップページのcreate new taskボタンをクリック。  
+②キーワードを入力してcreateボタンをクリック。  
+③TASK LISTの下に入力したキーワードを表示されます。  
+④削除したい項目があったら、キーワード右側にあるアイコンをクリック。  
+⑤TASK LISTから選択したキーワードが削除されます。
 
 #Usage  
-用途
+タスクを可視化することでやるべきことが明確化になりやすく、  
+業務内容の把握や優先順位などを明確化できます
 
 
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
