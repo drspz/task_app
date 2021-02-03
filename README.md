@@ -2,7 +2,7 @@
 
 概要  
 
-#Description  
+#Description    
 ①トップページのcreate new taskボタンをクリック。  
 ②キーワードを入力してcreateボタンをクリック。  
 ③TASK LISTの下に入力したキーワードを表示されます。  
