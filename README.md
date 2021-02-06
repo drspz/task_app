@@ -1,6 +1,6 @@
 # TO DO TASK アプリ
 
-概要    
+概要      
 
 #Description    
 ①トップページのcreate new taskボタンをクリック。  
