@@ -14,7 +14,7 @@
     
     
 トップ画面  
-https://gyazo.com/a5a69995c0aaf223c27ca93e3c2e120b
+https://gyazo.com/a5a69995c0aaf223c27ca93e3c2e120b raw= true  
 
 #Usage  
 タスク管理を使用するメリット  
