@@ -1,6 +1,6 @@
 # TO DO TASK アプリ
 
-#Overview  概要
+#概要  
 ①トップページのcreate new taskボタンをクリック。  
 ②キーワードを入力してcreateボタンをクリック。  
 ③TASK LISTの下に入力したキーワードを表示されます。  
@@ -32,7 +32,7 @@
 ![demo](https://gyazo.com/c1638468ead6a9b003acdf2fecac5817/raw)  
   
   
-#開発環境
+#開発環境  
 ・Ruby  
 ・Rails  
 ・MySQL  
