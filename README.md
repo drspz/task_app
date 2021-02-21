@@ -1,4 +1,4 @@
-# TO DO TASK アプリ  
+# TO DO TASK アプリ    
 
 #概要      
 ①トップページのcreate new taskボタンをクリック。  
